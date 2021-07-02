@@ -5,6 +5,7 @@
     "allowSyntheticDefaultImports": true
   },
   "allowSyntheticDefaultImports": true,
+  "include": ["src/**/**/*"],
   "transformers": {
     "*.{ts,tsx}": ["@parcel/transformer-typescript-tsc"]
   }
